@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>8f5cd7f1-baf1-4cb0-ac7a-9f5b8219f8f8</webElementGuid>
+      <webElementGuid>7e5ab096-1d7b-481f-9433-d9f6a955b15e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>350f244c-04e0-4690-8286-900d69ea82b4</webElementGuid>
+      <webElementGuid>03b0d801-f25c-4d14-a699-139a32e760b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>dfa2c506-c1e0-4b73-b719-8d1d8e86b589</webElementGuid>
+      <webElementGuid>6b3e03fe-1e37-4aa5-9537-3cf209e4fc91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt_visit_date</value>
-      <webElementGuid>0db3a853-1d79-4c03-abbd-90b29b1c3f9e</webElementGuid>
+      <webElementGuid>d2f05a7d-0a1a-4119-8b71-860846329be8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>name</name>
       <type>Main</type>
       <value>visit_date</value>
-      <webElementGuid>9db60ddf-0f6c-4126-a2c5-f3f0d9782113</webElementGuid>
+      <webElementGuid>f9034fe6-aaf7-49d2-8bd3-f48f31104aaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>dd/mm/yyyy</value>
-      <webElementGuid>42074773-2ed7-4f32-84bc-3e4348447705</webElementGuid>
+      <webElementGuid>4968dc14-4fed-4b03-a886-bab85e79e23c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>48fd87f6-eb25-4a06-84b9-91226553a298</webElementGuid>
+      <webElementGuid>f6af23db-ddfd-41ef-b847-26925cd8ef10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,38 +79,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt_visit_date&quot;)</value>
-      <webElementGuid>9fbd1db4-a95a-442e-b055-dd98282f2eb2</webElementGuid>
+      <webElementGuid>764dc653-c5c8-4e1a-b688-f42b90c6bd7d</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@id='txt_visit_date']</value>
-      <webElementGuid>ff4e67bf-d921-4e5e-afac-7452e49a7f9c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//section[@id='appointment']/div/div/form/div[4]/div/div/input</value>
-      <webElementGuid>0d4d8907-0e8e-496d-bb89-8fefeba69796</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/input</value>
-      <webElementGuid>ecc1e353-9c1e-4924-aaeb-3506c8b39af7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'txt_visit_date' and @name = 'visit_date' and @placeholder = 'dd/mm/yyyy']</value>
-      <webElementGuid>170ce90f-2e99-414b-9dfc-acb4a5cd4e58</webElementGuid>
-   </webElementXpaths>
 </WebElementEntity>

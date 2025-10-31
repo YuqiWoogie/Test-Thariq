@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5646717f-5e91-4a63-bcfa-0dd48ebd946b</webElementGuid>
+      <webElementGuid>4c27e2d2-7895-4a7c-b9d1-679baa103d9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>5e342c6d-1bb7-4ec2-9549-2ec83c1ff045</webElementGuid>
+      <webElementGuid>2ceae600-cd15-4fd5-b9fe-a417f4617a03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>chk_hospotal_readmission</value>
-      <webElementGuid>63c7191d-e253-4d31-9f5e-677c47b5e256</webElementGuid>
+      <webElementGuid>b1211bf7-d9cb-4488-9b3a-79c0930e1785</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>hospital_readmission</value>
-      <webElementGuid>79500510-632f-46be-b109-c599855b98e4</webElementGuid>
+      <webElementGuid>b2afd2c7-34f1-4bd1-868d-d4773af892b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Yes</value>
-      <webElementGuid>5b6a55f9-c423-4268-a4ee-9db939991b4c</webElementGuid>
+      <webElementGuid>4a8c0fb9-8cbc-4951-bb92-c642d3088c5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,38 +63,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;chk_hospotal_readmission&quot;)</value>
-      <webElementGuid>d983f464-e36f-47e2-be87-380fb401389e</webElementGuid>
+      <webElementGuid>752cba4d-0060-455a-a7f1-c1bf7e3d228c</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@id='chk_hospotal_readmission']</value>
-      <webElementGuid>a5d9f89b-850a-440d-b83d-0c04b811c7ff</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//section[@id='appointment']/div/div/form/div[2]/div/label/input</value>
-      <webElementGuid>56961037-d3eb-4eb5-916a-39204702c0d7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>df253f86-5706-4fdf-97a4-01ccd71f30c0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'checkbox' and @id = 'chk_hospotal_readmission' and @name = 'hospital_readmission']</value>
-      <webElementGuid>665e46da-a556-4b16-9bc3-2eaf9c144e19</webElementGuid>
-   </webElementXpaths>
 </WebElementEntity>

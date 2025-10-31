@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>e01e4804-ac62-47c8-aed7-cf469199025e</webElementGuid>
+      <webElementGuid>13b73a3c-f517-418a-8d8f-0f4d6514d6c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>day</value>
-      <webElementGuid>f972cbdd-202a-44c4-b344-4e71a71cc807</webElementGuid>
+      <webElementGuid>557b19e3-08eb-464b-8fc2-3838d0d41ee7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>31</value>
-      <webElementGuid>a60ec2bb-982d-40a1-8f83-c350a1f25938</webElementGuid>
+      <webElementGuid>80f134b9-1a25-40e6-a819-ec085b647463</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,62 +46,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[5]/td[@class=&quot;day&quot;]</value>
-      <webElementGuid>3a8fe7e2-9b81-4ec1-ac2f-bbb38be008a3</webElementGuid>
+      <webElementGuid>6b4305d7-6f87-4020-89ce-d44cc586a6ee</webElementGuid>
    </webElementProperties>
-   <webElementXpaths>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[34]</value>
-      <webElementGuid>179897a6-c8e9-4389-9051-730e1a65b7b5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[34]</value>
-      <webElementGuid>3ca14100-d563-441f-9039-9629b8ba43d0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[9]</value>
-      <webElementGuid>c4fe133d-e7cc-4eaa-b46b-4bb7affa0a56</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[9]</value>
-      <webElementGuid>c28dac6c-1d9c-43e5-a812-f87a80eeea6f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='31']/parent::*</value>
-      <webElementGuid>2f69193d-b970-426e-a46d-71bd35a47799</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//tr[5]/td[6]</value>
-      <webElementGuid>d4939529-da89-4129-a5ae-3710c7eb8663</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//td[(text() = '31' or . = '31')]</value>
-      <webElementGuid>b6f0346f-a63f-4cd2-b97d-23d3b40f26be</webElementGuid>
-   </webElementXpaths>
 </WebElementEntity>
